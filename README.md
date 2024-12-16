@@ -1,5 +1,5 @@
 
-![Logo](https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2018/10/OpenVSwitch_Resized.png?resize=730%2C389&ssl=1)
+![Logo](https://raw.githubusercontent.com/ricardoas30/VLAN/refs/heads/main/OpenVSwitch_Resized.webp)
 
 
 # Configurando o Open vSwitch no Proxmox - VLAN
